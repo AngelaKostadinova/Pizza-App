@@ -1,2 +1,2 @@
 # Note-App
-RESTful Web Api Application for working with Notes.
+RESTful Web Api application for working with Notes.
