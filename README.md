@@ -1,2 +1,2 @@
-# Note-App
-RESTful Web Api application for working with Notes.
+# Pizza-App
+ASP.NET CORE MVC Application for ordering pizza.
